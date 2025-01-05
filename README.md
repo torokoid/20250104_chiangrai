@@ -164,7 +164,7 @@ p.note { display: none; }
 <a href="20250104_015.JPG" target="_blank"><img src="20250104_015.JPG" alt="サンプル画像" width="900" /></a>
 
 <br>
-<h2><a href="https://turupura.com/guide/star/akerunaru.html" target="_blank">アケルナルはかなりマニアックなので説明リンク貼ります（この文字クリック）</a></h2>
+<h2><span class="yellow"><a href="https://turupura.com/guide/star/akerunaru.html" target="_blank">アケルナルはかなりマニアックなので説明リンク貼ります（この文字クリック）</a></span></h2>
 
 
 <br><br>
