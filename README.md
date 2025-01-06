@@ -173,7 +173,7 @@ p.note { display: none; }
 <a href="20250104_017.JPG" target="_blank"><img src="20250104_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250104_018.JPG" target="_blank"><img src="20250104_018.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">あまり騒がれませんが、タイは銃社会なので、道にこんなものが落ちてます<br>男子は兵役義務があるので銃の扱いは仕込まれています</span></h2>
+<h2><span class="yellow">あまり騒がれませんが、タイは銃社会なので、道にこんなものが落ちてます<br>男子は兵役義務があるので銃の扱いは仕込まれていてお手のもの</span></h2>
 <a href="20250104_019.JPG" target="_blank"><img src="20250104_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250104_020.JPG" target="_blank"><img src="20250104_020.JPG" alt="サンプル画像" width="900" /></a>
 
